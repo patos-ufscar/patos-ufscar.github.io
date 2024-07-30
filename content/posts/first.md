@@ -20,8 +20,10 @@ segunda-feira!
 
 Dê uma olhada no post completo no [LinkedIn](<https://www.linkedin.com/feed/update/urn:li:activity:7221856161757614080/?commentUrn=urn:li:comment:(ugcPost:7221701228613804032,7223495607573708800)&dashCommentUrn=urn:li:fsd_comment:(7223495607573708800,urn:li:ugcPost:7221701228613804032)>)!
 
-![imagem da sala lotada](/static/first/2.png)
-![foto da organização](/static/first/0.png)
-![foto do vini dando a aula](/static/first/3.jpeg)
+![imagem da sala lotada](/first/2.png)
+
+![foto do vini dando a aula](/first/3.jpeg)
+
+![foto da organização](/first/0.png)
 
 Daniel Lombardi
