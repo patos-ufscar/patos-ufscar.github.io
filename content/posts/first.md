@@ -2,6 +2,9 @@
 title = 'First'
 date = 2024-07-29T21:27:18-03:00
 draft = false
+featured = true
+tags = ['evento', 'aulão', 'linux', 'sistemas operacionais']
+series = ['talks']
 +++
 
 # Primeiro Evento do PATOS!!!
@@ -13,7 +16,7 @@ da Computação.
 A aula foi ministrada pelo [Vinícius Rodrigues](https://github.com/ViniRodrig),
 que ofereceu aos calouros do departamento uma valiosa oportunidade de se
 familiarizarem com este sistema operacional, que é essencial para o bom
-aproveitamento dos cursos de computaçã.
+aproveitamento dos cursos de computação.
 
 Foi incrivelmente gratificante ver tantos participantes em uma noite de
 segunda-feira!
