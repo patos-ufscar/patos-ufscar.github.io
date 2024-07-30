@@ -1,7 +1,7 @@
 +++
 title = 'First'
 date = 2024-07-29T21:27:18-03:00
-draft = true
+draft = false
 +++
 
 # Primeiro Evento do PATOS!!!
