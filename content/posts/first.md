@@ -23,3 +23,5 @@ Dê uma olhada no post completo no [LinkedIn](<https://www.linkedin.com/feed/upd
 ![imagem da sala lotada](/static/first/2.png)
 ![foto da organização](/static/first/0.png)
 ![foto do vini dando a aula](/static/first/3.jpeg)
+
+Daniel Lombardi
