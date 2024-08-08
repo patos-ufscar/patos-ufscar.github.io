@@ -24,12 +24,12 @@ menu:
     - name: Tags
       url: /tags
       weight: 4
-    - name: Arquivo
-      url: /archives
+    # - name: Arquivo
+    #   url: /archives
+    #   weight: 5
+    - name: Free-Tiers
+      url: /free-tiers
       weight: 5
-    - name: Vídeos
-      url: /videos
-      weight: 6
 
 params:
   brand: HOME
