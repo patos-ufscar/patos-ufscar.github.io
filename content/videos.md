@@ -1,4 +1,0 @@
----
-title: "Vídeos"
-layout: "art"
----

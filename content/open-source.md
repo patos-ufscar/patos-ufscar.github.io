@@ -1,11 +1,7 @@
-+++
-title = 'Open Source'
-date = 2024-08-06T21:27:18-03:00
-draft = false
-featured = true
-tags = ['opensource']
-series = ['blog-post']
-+++
+---
+title: "Open Source"
+# layout: "partials"
+---
 
 ## Mentorias
 
@@ -13,7 +9,7 @@ Empresas como Google, LFX e Outreachy, financiam ideias de projeto, contanto que
 
 Essa mentorias possuem um processo de incrição que acontecem algumas vezes no ano. Em sua grande maioria, são bem simples e não exigem experiência prévia, apenas algum conhecimento na técnologia que será utilizada e muita vontade de aprender.
 
-Alguns dos programas de mentoria remuneradas, temos:
+Alguns dos programas de mentoria remuneradas:
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) até $3000 dolares para brasileiros.
 
@@ -53,3 +49,27 @@ Com isso em mente, você pode seguir os seguintes passos:
 [Exemplos](https://github.com/prometheus-operator/prometheus-operator/issues?q=is:open+is:issue+label:%22good+first+issue%22). Escolha um e comece a trabalhar.
 
 4. Depois de escolher um problema, você deve fazer um fork do projeto, clonar o repositório e criar uma branch para trabalhar. Essas informações também estão na documentação.
+
+## Calendário
+
+### Linux Foundation
+
+Linux foundation possui três programas de mentoria por ano.
+
+- de março a 31 de maio
+- de junho a 31 de agosto
+- de setembro a 30 de novembro
+
+Mais detalhes podem ser encontrados [aqui](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines)
+
+### Google Summer of Code
+
+Nesse programa só existe uma edição por ano. As inscrições começam em janeiro e o programa começa em junho, durando até o final de novembro.
+
+Mais detalhes podem ser encontrados [aqui](https://developers.google.com/open-source/gsoc/timeline)
+
+### Outreachy
+
+Esse programa possui duas edições por ano. Uma começando em janeiro e outra em Agosto.
+
+Mais detalhes podem ser encontrados [aqui](https://www.outreachy.org/apply/project-selection/)
