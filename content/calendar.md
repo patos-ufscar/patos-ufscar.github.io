@@ -21,3 +21,4 @@ Palestras planejadas
 |     T.B.D.     | Testes na prática, mocks e % reais                  |   x   |     | @LombardiDaniel                         |
 |     T.B.D.     | Infraestrutura de Guerrilha                         |   x   |     | @LombardiDaniel                         |
 |     T.B.D.     | Não Objetifique Seus Códigos                        |   x   |     | @LombardiDaniel                         |
+|     T.B.D.     | Princípios da Programação Funcional                 |   x   |     | @MarlonHenq                             |
