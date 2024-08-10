@@ -21,15 +21,18 @@ menu:
     - name: Listas
       url: /series
       weight: 3
-    - name: Tags
-      url: /tags
-      weight: 4
+    # - name: Tags
+    #   url: /tags
+    #   weight: 4
     # - name: Arquivo
     #   url: /archives
     #   weight: 5
     - name: Free-Tiers
       url: /free-tiers
       weight: 5
+    - name: Open Source
+      url: /open-source
+      weight: 6
 
 params:
   brand: HOME
