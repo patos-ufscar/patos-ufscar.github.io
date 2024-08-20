@@ -1,7 +1,11 @@
----
-title: "Free-Tiers"
-# layout: "partials"
----
++++
+title = "Free-Tiers"
+date = 2024-08-01T21:27:18-03:00
+draft = false
+featured = false
+tags = ['evento', 'aulão', 'linux', 'sistemas operacionais']
+series = ['talks']
++++
 
 [GitHub](https://education.github.com/pack)
 

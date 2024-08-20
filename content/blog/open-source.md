@@ -1,7 +1,9 @@
----
-title: "Open Source"
++++
+title = "Open Source"
 # layout: "partials"
----
+date = 2024-08-01T21:27:18-03:00
+featured = true
++++
 
 ## Mentorias
 
@@ -43,12 +45,12 @@ Com isso em mente, você pode seguir os seguintes passos:
 
 1.  Encontre um projeto que chame sua atenção, seja por usar uma tecnologia que você goste, ou por ser algo que gostaria de aprender.
 
-2. Em sua grande partes, projetos open source tem um arquivo chamado `CONTRIBUTING.md` que contém informações de como contribuir. E lá você pode encontrar informações de como começar. Seja te guiando para a documentação, como inicializar seu ambiente de desenvolvimento, ou até mesmo como fazer um pull request.
+2.  Em sua grande partes, projetos open source tem um arquivo chamado `CONTRIBUTING.md` que contém informações de como contribuir. E lá você pode encontrar informações de como começar. Seja te guiando para a documentação, como inicializar seu ambiente de desenvolvimento, ou até mesmo como fazer um pull request.
 
-3. Um exemplo é o projeto [Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator), os mantenedores colocam a tag `good first issue` para problemas que podem ser resolvidos por iniciantes.
-[Exemplos](https://github.com/prometheus-operator/prometheus-operator/issues?q=is:open+is:issue+label:%22good+first+issue%22). Escolha um e comece a trabalhar.
+3.  Um exemplo é o projeto [Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator), os mantenedores colocam a tag `good first issue` para problemas que podem ser resolvidos por iniciantes.
+    [Exemplos](https://github.com/prometheus-operator/prometheus-operator/issues?q=is:open+is:issue+label:%22good+first+issue%22). Escolha um e comece a trabalhar.
 
-4. Depois de escolher um problema, você deve fazer um fork do projeto, clonar o repositório e criar uma branch para trabalhar. Essas informações também estão na documentação.
+4.  Depois de escolher um problema, você deve fazer um fork do projeto, clonar o repositório e criar uma branch para trabalhar. Essas informações também estão na documentação.
 
 ## Calendário
 
