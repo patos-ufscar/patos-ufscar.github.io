@@ -8,7 +8,7 @@ Palestras planejadas
 | :------------: | :-------------------------------------------------- | :---: | :-: | :-------------------------------------- |
 | ~~22/07/2024~~ | gnu/linux                                           |   x   |  x  | @ViniRodrig                             |
 | ~~31/07/2024~~ | aulao de Verilog                                    |   x   |     | @MarlonHenq                             |
-|   19/08/2024   | http                                                |   x   |  x  | @ViniRodrig @LombardiDaniel             |
+| ~~19/08/2024~~ | http                                                |   x   |  x  | @ViniRodrig @LombardiDaniel             |
 |   27/08/2024   | aulao de git                                        |   x   |     | @rodcoffani @augustodsgv @MarlonHenq    |
 |     T.B.D.     | criptografia - intro pombo                          |       |  x  | @rodcoffani                             |
 |     T.B.D.     | aulao docker                                        |   x   |     | @LombardiDaniel                         |
