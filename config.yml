@@ -15,24 +15,27 @@ menu:
     - name: Blog
       url: /blog
       weight: 1
+    - name: Aulões
+      url: /auloes
+      weight: 2
     - name: Calendário
       url: /calendar
-      weight: 2
+      weight: 3
     - name: Listas
       url: /series
-      weight: 3
+      weight: 4
     # - name: Tags
     #   url: /tags
     #   weight: 4
     # - name: Arquivo
     #   url: /archives
     #   weight: 5
-    - name: Free-Tiers
-      url: /free-tiers
-      weight: 5
-    - name: Open Source
-      url: /open-source
-      weight: 6
+    # - name: Free-Tiers
+    #   url: /free-tiers
+    #   weight: 5
+    # - name: Open Source
+    #   url: /open-source
+    #   weight: 6
 
 params:
   brand: HOME
