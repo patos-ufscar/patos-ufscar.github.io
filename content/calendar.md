@@ -23,4 +23,6 @@ Palestras planejadas
 |     T.B.D.     | Infraestrutura de Guerrilha                         |   x   |     | @LombardiDaniel                         |
 |     T.B.D.     | Não Objetifique Seus Códigos                        |   x   |     | @LombardiDaniel                         |
 |     T.B.D.     | Princípios da Programação Funcional                 |   x   |     | @MarlonHenq                             |
-|     T.B.D.     | Como Funcionam as Blockchains sem Bullshitismo      |   x   |     | @MarlonHenq                             |
+|     T.B.D.     | Como Funcionam as Blockchains sem Bullshitismo      |   x   |  x  | @MarlonHenq                             |
+|     T.B.D.     | Embarcados 101                                      |   x   |     | @MarlonHenq                             |
+|     T.B.D.     | Hardware Hacking - De cartões RFID a Wifi Jammer    |       |  x  | @MarlonHenq                             |
