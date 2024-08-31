@@ -26,3 +26,4 @@ Palestras planejadas
 |     T.B.D.     | Como Funcionam as Blockchains sem Bullshitismo      |   x   |  x  | @MarlonHenq                             |
 |     T.B.D.     | Embarcados 101                                      |   x   |     | @MarlonHenq                             |
 |     T.B.D.     | Hardware Hacking - De cartões RFID a Wifi Jammer    |       |  x  | @MarlonHenq                             |
+|     T.B.D.     | Rede Onion e Tor em uma casca de noz                |   x   |  x  | @MarlonHenq @arthunix                   |
