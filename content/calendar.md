@@ -2,6 +2,8 @@
 title: "Calendar"
 ---
 
+[Calendário de Eventos Tech Brasil](https://github.com/Abacatinhos/eventos-tech-brasil)
+
 Palestras planejadas
 
 |      qnd       | topic                                               | quack | pru | members of interest                     |
@@ -9,7 +11,7 @@ Palestras planejadas
 | ~~22/07/2024~~ | gnu/linux                                           |   x   |  x  | @ViniRodrig                             |
 | ~~31/07/2024~~ | aulao de Verilog                                    |   x   |     | @MarlonHenq                             |
 | ~~19/08/2024~~ | http                                                |   x   |  x  | @ViniRodrig @LombardiDaniel             |
-|   02/09/2024   | criptografia - intro pombo                          |       |  x  | @rodcoffani                             |
+| ~~02/09/2024~~ | CyberSec - intro pombo                              |       |  x  | @ViniRodrig @rodcoffani                 |
 |     T.B.D.     | Aulão websec                                        |       |  x  |                                         |
 |     T.B.D.     | Cloud - Boravê - feat Iberê - Falar de Precipitação |   x   |  x  | @augustodsgv                            |
 |     T.B.D.     | aulao de git                                        |   x   |     | @rodcoffani @augustodsgv @MarlonHenq    |
