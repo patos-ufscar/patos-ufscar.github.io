@@ -7,6 +7,8 @@ tags = ['evento', 'aulão', 'linux', 'sistemas operacionais']
 series = ['talks']
 +++
 
+[rapidly boostrap production ready swarm clusters](https://github.com/LombardiDaniel/swarm-ansible) (propaganda do repo do lombardi)
+
 [GitHub](https://education.github.com/pack)
 
 [CockRoachDB](https://www.cockroachlabs.com/pricing/)
