@@ -12,6 +12,7 @@ Palestras planejadas
 | ~~31/07/2024~~ | aulao de Verilog                                    |   x   |     | @MarlonHenq                             |
 | ~~19/08/2024~~ | http                                                |   x   |  x  | @ViniRodrig @LombardiDaniel             |
 | ~~02/09/2024~~ | CyberSec - intro pombo                              |       |  x  | @ViniRodrig @rodcoffani                 |
+|   02/12/2024   | Cloud Init                                          |   x   |     | @perebaj                                |
 |     T.B.D.     | Aulão websec                                        |       |  x  |                                         |
 |     T.B.D.     | Cloud - Boravê - feat Iberê - Falar de Precipitação |   x   |  x  | @augustodsgv                            |
 |     T.B.D.     | aulao de git                                        |   x   |     | @rodcoffani @augustodsgv @MarlonHenq    |
