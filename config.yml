@@ -29,12 +29,13 @@ params:
   brand: HOME
   avatarURL: /images/avatar.png
   author: PATOS UFSCar
-  authorDescription: Porque Aqui Todos Olham o Source
+  authorDescription: Pretty Awesome To Open Source
   info: |
     PATOS é o primeiro grupo focado em open source e software livre da UFSCar.
     Interessado? Se [inscreva em nosso Psel](https://github.com/patos-ufscar/psel/tree/main).
 
     [Inscrição em Flash Talks](https://forms.gle/HEB5maXQ8uXsdcT96).
+    [privacy policy](https://patos.dev/policy)
 
   favicon: /images/winframe.png
   options:
@@ -59,3 +60,4 @@ params:
 taxonomies:
   series: series
   tags: tags
+  policy: policy
