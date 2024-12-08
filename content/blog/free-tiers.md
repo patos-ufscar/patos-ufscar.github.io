@@ -30,3 +30,15 @@ series = ['talks']
 [DigitalOcean](https://www.digitalocean.com/pricing)
 
 [MongoDB](https://www.mongodb.com/pricing)
+
+---
+
+Databases:
+
+https://www.koyeb.com/blog/top-postgresql-database-free-tiers-in-2024#neon
+
+https://aiven.io/
+
+https://neon.tech/
+
+https://www.koyeb.com/pricing
