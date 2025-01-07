@@ -12,7 +12,7 @@ Palestras planejadas
 | ~~31/07/2024~~ | aulao de Verilog                                    |   x   |     | @MarlonHenq                             |
 | ~~19/08/2024~~ | http                                                |   x   |  x  | @ViniRodrig @LombardiDaniel             |
 | ~~02/09/2024~~ | CyberSec - intro pombo                              |       |  x  | @ViniRodrig @rodcoffani                 |
-|   02/12/2024   | Cloud Init                                          |   x   |     | @perebaj                                |
+| ~~02/12/2024~~ | Cloud Init                                          |   x   |     | @perebaj                                |
 |     T.B.D.     | Aulão websec                                        |       |  x  |                                         |
 |     T.B.D.     | Cloud - Boravê - feat Iberê - Falar de Precipitação |   x   |  x  | @augustodsgv                            |
 |     T.B.D.     | aulao de git                                        |   x   |     | @rodcoffani @augustodsgv @MarlonHenq    |
@@ -29,4 +29,5 @@ Palestras planejadas
 |     T.B.D.     | Como Funcionam as Blockchains sem Bullshitismo      |   x   |  x  | @MarlonHenq                             |
 |     T.B.D.     | Embarcados 101                                      |   x   |     | @MarlonHenq                             |
 |     T.B.D.     | Hardware Hacking - De cartões RFID a Wifi Jammer    |       |  x  | @MarlonHenq                             |
+|     T.B.D.     | S.E.O. de qualidade, mantendo o KISS                |   x   |     | @MarlonHenq                             |
 |     T.B.D.     | Rede Onion e Tor em uma casca de noz                |   x   |  x  | @MarlonHenq @arthunix                   |
