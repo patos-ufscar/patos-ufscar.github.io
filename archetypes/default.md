@@ -1,9 +1,9 @@
-{
-  "date": "{{ .Date }}",
-  "draft": true,
-  "title": "{{ replace .File.ContentBaseName `-` ` ` | title }}".
-  "description": "",
-  "tags": [],
-  "categories": [],
-  "featured": false
-}
++++
+title: {{ replace .File.ContentBaseName `-` ` ` | title }}.
+date: {{ .Date }},
+draft: true,
+description: ,
+tags: [],
+categories: [],
+featured: false
++++
