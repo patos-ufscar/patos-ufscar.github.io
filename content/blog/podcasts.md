@@ -1,6 +1,6 @@
 +++
 date = 2025-02-01T18:13:47+01:00
-draft = true
+draft = false
 title = "Podcasts"
 description = "Podcasts com participação de membros do PATOS."
 tags = ['podcast', 'jovem nerd', 'nerd na cloud', 'magalu cloud', 'cabeça de lab']
