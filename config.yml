@@ -7,9 +7,10 @@ description: "O primeiro grupo focado em Software Livre da UFSCar" # provavelmen
 homepage: "https://patos.dev/"
 defaultContentLanguage: "pt-br"
 googleAnalytics: ""
-paginate: 10
+pagination:
+  size: 10
 hasCJKLanguage: false
-copyright: "© 2024 PATOS"
+copyright: "© 2025 PATOS"
 menu:
   main:
     - name: Blog
