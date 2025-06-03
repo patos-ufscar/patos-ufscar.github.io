@@ -8,17 +8,19 @@ Palestras planejadas
 
 ### 2025
 
-|  qnd   | topic                                            | quack | pru | members of interest         |
-| :----: | :----------------------------------------------- | :---: | :-: | :-------------------------- |
-| T.B.D. | [live-coding] http - psel                        |   x   |  x  | @ViniRodrig @LombardiDaniel |
-| T.B.D. | Crypto                                           |       |  x  | @MarlonHenq                 |
-| T.B.D. | Containers From Scratch                          |   x   |     | @LuizOt31                   |
-| T.B.D. | CyberSec - Convidado                             |       |  x  | @MarlonHenq                 |
-| T.B.D. | CyberSec - P.O.M.B.O. - Geral                    |       |  x  | @ViniRodrig                 |
-| T.B.D. | Clojure - Letícia Machado @ nubank               |   x   |     | @MarlonHenq                 |
-| T.B.D. | Como Funcionam as Blockchains sem Bullshitismo   |   x   |  x  | @MarlonHenq                 |
-| T.B.D. | Testes na prática, mocks, smokes e % reais       |   x   |     | @LombardiDaniel             |
-| T.B.D. | Obj Storage e SLA alto - Convidado @ magalucloud |   x   |     | @ViniRodrig                 |
+|  qnd   | topic                                            | quack | pru | members of interest                                     |
+| :----: | :----------------------------------------------- | :---: | :-: | :------------------------------------------------------ |
+| 09-Jun | \[live-coding\] http - psel                      |   x   |  x  | @ViniRodrig @LombardiDaniel                             |
+| 16-Jun | Crypto                                           |       |  x  | @MarlonHenq                                             |
+| 23-Jun | Carreiras Open-Source feat. Maíra Canal          |       |  x  | [@Maíra Canal](https://www.linkedin.com/in/mairacanal/) |
+| 30-Jun | Containers From Scratch                          |   x   |     | @LuizOt31                                               |
+| 07-Jul | CyberSec - Convidado                             |       |  x  | @MarlonHenq                                             |
+| 14-Jul | Pipeline Gráfica do Linux feat. Maíra Canal      |       |  x  | [@Maíra Canal](https://www.linkedin.com/in/mairacanal/) |
+| T.B.D. | CyberSec - P.O.M.B.O. - Geral                    |       |  x  | @ViniRodrig                                             |
+| T.B.D. | Clojure - Letícia Machado @ nubank               |   x   |     | @MarlonHenq                                             |
+| T.B.D. | Como Funcionam as Blockchains sem Bullshitismo   |   x   |  x  | @MarlonHenq                                             |
+| T.B.D. | Testes na prática, mocks, smokes e % reais       |   x   |     | @LombardiDaniel                                         |
+| T.B.D. | Obj Storage e SLA alto - Convidado @ magalucloud |   x   |     | @ViniRodrig                                             |
 
 ### 2024
 
