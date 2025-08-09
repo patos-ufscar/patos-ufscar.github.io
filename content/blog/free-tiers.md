@@ -31,6 +31,8 @@ series = ['talks']
 
 [MongoDB](https://www.mongodb.com/pricing)
 
+[DataStax - Cassandra](https://www.datastax.com/pricing)
+
 ---
 
 Databases:
@@ -42,3 +44,5 @@ https://aiven.io/
 https://neon.tech/
 
 https://www.koyeb.com/pricing
+
+https://www.datastax.com/pricing
